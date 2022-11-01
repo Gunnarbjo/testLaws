@@ -1,7 +1,7 @@
 Lög Nörd
 Lög félags tölvunarfræði- og hugbúnaðarverkfræðinema
 
-
+hebbi að fikta
 1.gr. Nafn félagsins
 1.mgr. Nafn félagsins er "Nörd Félag tölvunarfræði- og hugbúnaðarverkfræðinema við Háskóla Íslands".
 
